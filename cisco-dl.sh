@@ -1,0 +1,1 @@
+wget https://lor-strapi-backend.s3.amazonaws.com/skillsforall/Cisco_Packet_Tracer_810_Ubuntu_64bit_2eb10bc3f0.deb?AWSAccessKeyId=AKIAUJZRIEYBIGK5J6JQ&Expires=1642414967&Signature=%2FRhVI%2B5gcF4auRZvAllmqPrWMEY%3D&response-content-disposition=attachment%3B%20filename%3D%22Cisco_Packet_Tracer_810_Ubuntu_64bit_2eb10bc3f0.deb%22
